@@ -1,0 +1,2 @@
+rootProject.name = 'reactive-spring-kotlin-examples'
+rootProject.buildFileName = 'build.gradle.kts'
